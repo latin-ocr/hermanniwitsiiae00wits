@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hermanniwitsiiae00wits_0449.png"; bbox 0 0 2539 3612; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 642 960 1767 1199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 642 960 1767 1199">
+     <span class='ocr_line' id='line_1_1' title="bbox 642 960 1767 1045; baseline 0.007 -15"><span class='ocrx_word' id='word_1_1' title='bbox 642 960 1767 1045; x_wconf 78' lang='lat' dir='ltr'>DIATRIBE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1095 1139 1249 1199; baseline 0.006 -1"><span class='ocrx_word' id='word_1_2' title='bbox 1095 1139 1249 1199; x_wconf 89' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 628 1301 1774 1414">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 628 1301 1774 1414">
+     <span class='ocr_line' id='line_1_3' title="bbox 628 1301 1774 1414; baseline 0.008 -13"><span class='ocrx_word' id='word_1_3' title='bbox 628 1301 1774 1414; x_wconf 88' lang='lat' dir='ltr'>LEGIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 168 1514 2149 1912">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 168 1514 2149 1912">
+     <span class='ocr_line' id='line_1_4' title="bbox 168 1514 2149 1667; baseline 0.008 -13"><span class='ocrx_word' id='word_1_4' title='bbox 168 1514 2149 1667; x_wconf 87' lang='lat' dir='ltr'>FULMINATRICE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 414 1788 1931 1912; baseline 0.011 -19"><span class='ocrx_word' id='word_1_5' title='bbox 414 1788 1931 1912; x_wconf 83' lang='lat' dir='ltr'><strong>CHRISTIANORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 748 1980 1599 2051">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 748 1980 1599 2051">
+     <span class='ocr_line' id='line_1_6' title="bbox 748 1980 1599 2051; baseline 0.018 -14"><span class='ocrx_word' id='word_1_6' title='bbox 748 1980 907 2038; x_wconf 82' lang='lat' dir='ltr'>SUB</span> <span class='ocrx_word' id='word_1_7' title='bbox 948 1984 1573 2051; x_wconf 85' lang='lat' dir='ltr'><em>IMPERATORE</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1596 2025 1599 2028; x_wconf 96' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 70 2136 2065 2229">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 70 2136 2065 2229">
+     <span class='ocr_line' id='line_1_7' title="bbox 70 2136 2065 2229; baseline 0.01 -21"><span class='ocrx_word' id='word_1_9' title='bbox 70 2182 73 2185; x_wconf 88' lang='lat'>·</span> <span class='ocrx_word' id='word_1_10' title='bbox 256 2136 693 2215; x_wconf 88' lang='lat' dir='ltr'>MARCO</span> <span class='ocrx_word' id='word_1_11' title='bbox 742 2142 1304 2220; x_wconf 87' lang='lat' dir='ltr'>AURELIO</span> <span class='ocrx_word' id='word_1_12' title='bbox 1352 2152 2065 2229; x_wconf 70' lang='lat' dir='ltr'>ANTONINO,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
